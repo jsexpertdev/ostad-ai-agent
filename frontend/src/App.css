@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.chat-container {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.message-bubble {
+  max-width: 70%;
+  word-wrap: break-word;
+}
